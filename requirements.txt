@@ -6,6 +6,6 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.5
 tensorflow==2.11.0
 Pillow>=5.4.0
-numpy==1.17.2
+numpy>=1.20
 scikit-learn==0.22.2.post1
 pandas==0.25.1
