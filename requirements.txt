@@ -7,6 +7,6 @@ Werkzeug>=0.14
 tensorflow==2.11.0
 Pillow>=5.4.0
 numpy>=1.20
-scikit-learn==0.22.2.post1
+scikit-learn
 pandas
 Cython>=0.28.5
